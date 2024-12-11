@@ -1,6 +1,6 @@
 # Utilizing Sentiment Analysis to do Comparative App Analysis  
 
-##Motivation
+#Motivation
 
 I was seeking to understand how can we identify apps that are seen as most effective for learning CS education topics such as programming. The most common apporach to this is sentiment analysis 
 
